@@ -46,6 +46,7 @@ tr,td{
 
 #total-price{
     float: right;
+    margin-right: 10px;
     box-sizing: border-box;
 }
 

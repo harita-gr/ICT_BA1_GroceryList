@@ -17,7 +17,7 @@ App for displaying shopping list
 
 ---
 ### Hosted At
-<https://harita-gr.github.io/ICT_BA1_GroceryList/>
+<https://harita-gr.github.io/ICT_BA1_GroceryListApp/>
 
 ---
 ### Author
